@@ -11,8 +11,8 @@ Search Functionality: Provide robust search capabilities for users to find books
 Goals
 The primary goal of the Library Management System project is to enhance the efficiency and accessibility of library services for both staff and users. By implementing an intuitive user interface, the project aims to streamline the process of registering new users, managing student information, and cataloging new books. Additionally, the system offers robust search functionalities to improve the overall user experience.
 
-Contact
-If you encounter any issues or have any questions or suggestions regarding Harmonic Haven, please don't hesitate to contact . We're here to help!
+#Contact
+If you encounter any issues or have any questions or suggestions regarding Library Management System, please don't hesitate to contact . We're here to help!
 
 For further inquiries, you can also contact us at (shamsulamin535@gmail.com).
 
